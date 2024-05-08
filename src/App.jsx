@@ -1,12 +1,12 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
   return (
     <>
-     App!
+     <div className='card'>
+      <h1>Java</h1>
+      <img src="https://www.salvatore.academy/devmon/1_java.png" width="200px" />
+     </div>
     </>
   )
 }
